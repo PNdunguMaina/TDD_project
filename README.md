@@ -1,56 +1,48 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# TDD_project
 
-> Description the project.
-
+> In this project, we implemented a class with some methods following test-driven development (TDD) methodology. 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- **Languages:** Ruby
+- **Tools & Methods:** Git, GitHub, TDD, Chrome Dev Tools
+- **Technology used:** RuboCop
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+
+- Code editor
+- Computer
+- Internet
 
 ### Setup
 
-### Install
+### Clone this repository
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- $ _https://github.com/PNdunguMaina/TDD_project.git
+- $ _cd TDD_project_
 
 ## Authors
 
-👤 **Author1**
+👤 **Patrick Maina**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@PNdunguMaina](https://github.com/PNdunguMaina)
+- LinkedIn: [Patrick Maina](https://www.linkedin.com/in/pndungumaina/)
 
-👤 **Author2**
+👤 **Author 2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+   - GitHub:[@pamphilemkp](https://github.com/pamphilemkp)
+   - Twitter:[@pamphilemkp](https://Twitter.com/PamphileMusonda)
+   - LinkedIn:[@pamphilemkp](https://www.linkedin.com/in/pamphile-musonda)
+
+👤 **Author 3**
+
+   - GitHub:[@markotuya](https://github.com/markotuya0)
+   - Twitter:[@markotuya](https://Twitter.com/mark__anthonny)
+   - LinkedIn:[@markotuya](https://www.linkedin.com/in/mark-otuya)
 
 ## 🤝 Contributing
 
