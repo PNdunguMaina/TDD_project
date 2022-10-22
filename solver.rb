@@ -9,11 +9,19 @@ class Solver
     @f
   end
 
-  def fizzbuzz
-
+  def reverse(string)
+    string.chars.reverse.join
   end
-end
 
-def reverse(string)
-  string.chars.reverse.join
+  def fizzbuzz(n)
+    if n % 3 == 0 && n % 5 == 0 then
+      "fizzbuzz"
+    elsif n % 3 == 0 then
+      "fizz"
+    elsif n % 5 == 0 then
+      "buzz"
+    else
+      n.to_i
+    end
+  end
 end
