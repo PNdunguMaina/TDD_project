@@ -13,3 +13,7 @@ class Solver
 
   end
 end
+
+def reverse(string)
+  string.chars.reverse.join
+end
