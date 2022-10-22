@@ -9,3 +9,14 @@ class Solver
     @f
   end
 end
+
+def reverse(string)
+  case string.length
+  when 0
+    ''
+  when 1
+    string
+  else
+    string.reverse
+  end
+end
