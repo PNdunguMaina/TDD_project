@@ -11,12 +11,5 @@ class Solver
 end
 
 def reverse(string)
-  case string.length
-  when 0
-    ''
-  when 1
-    string
-  else
-    string.reverse
-  end
+  string.chars.reverse.join
 end
