@@ -8,4 +8,8 @@ class Solver
     end
     @f
   end
+
+  def fizzbuzz
+
+  end
 end
